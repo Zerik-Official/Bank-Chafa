@@ -1,6 +1,15 @@
 # Bank Chafa
 
-Bank Chafa es una aplicación de consola escrita en Python que simula operaciones básicas de un banco. El usuario puede introducir un saldo inicial y luego elegir entre retirar fondos, depositar dinero o salir de la sesión. Las transacciones validan montos y muestran mensajes de éxito o error.
+Bank Chafa es un sistema de gestión bancaria modular desarrollado en Python. Esta aplicación permite la administración de múltiples cuentas, transferencias interbancarias y cálculos automáticos de impuestos gubernamentales (4x1000), utilizando una arquitectura de servicios separada de la lógica de interfaz. 
+
+<p align="center">
+   <img src="./images/bank_chafa.png" alt="Preview" width="600"/>
+</p>
+
+## ¿Dato curioso?
+> Duración de la creación: 12 horas aprox
+> Desde el 1 de mayo a las 8 A.M hasta el 2 de mayo hasta las 12:02 A.M
+> Ya casi voy a dormir!
 
 ## Requisitos
 
@@ -39,8 +48,8 @@ si te dá un error, ejecuta:
 python3 main.py
 ```
 
-Sigue las indicaciones en pantalla para introducir el saldo inicial y seleccionar las operaciones disponibles.
+Sigue las indicaciones del programa, danos tu dinero! y disfruta :)
 
 ### By Zerik
-> Version 1.0
+> Version 2.0
 > Gustavo Andrés Guzmán Mejía
